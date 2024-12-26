@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733860872 source:c:\users\sasha\documents\win api\gamelogic\main.cpp
+	<cstring>
+	<string>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<random>
+	<ctime>
+
+1584205420 c:\users\sasha\documents\win api\gamelogic\main.h
+	<windows.h>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1733860943 source:c:\users\sasha\desktop\win32api\rotaienkoo\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+	<vector>
+	<ctime>
+	<algorithm>
+	<random>
+	"resource.h"
+	<windows.h>
+	<string>
+
+1733846514 c:\users\sasha\desktop\win32api\rotaienkoo\project\resource.h
+
+1733420708 source:c:\users\sasha\desktop\win32api\rotaienkoo\project\resource.rc
+	"resource.h"
+

@@ -1,0 +1,4 @@
+EXPORTS
+    InitializeGameDLL @1
+    LoadHighScores @2
+    SaveHighScore @3
